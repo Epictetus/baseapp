@@ -1,3 +1,7 @@
+h1. IMPORTANT
+
+This project is no longer being maintained. There are a lot of good alternatives to quick-start your Rails application, like "bort":http://github.com/fudgestudios/bort
+
 h1. Welcome to BaseApp
 
 BaseApp is a default Ruby on Rails project that kick-starts your next Rails project.
