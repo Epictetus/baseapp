@@ -1,5 +1,7 @@
 h1. IMPORTANT
 
+BaseApp2 is now available: "BaseApp2":http://github.com/dannyweb/baseapp2
+
 This project is no longer being maintained. There are a lot of good alternatives to quick-start your Rails application, like "bort":http://github.com/fudgestudios/bort
 
 h1. Welcome to BaseApp
